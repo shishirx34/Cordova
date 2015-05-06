@@ -1,4 +1,7 @@
 {
 	"version": "1.0.1",
-	"file": "www/Resources/sampleText.txt"
+	"file": { 
+		"localFile" : "www/Resources/sampleText.txt",
+		"remoteFile" : "https://raw.githubusercontent.com/shishirx34/Cordova/master/Resources/sampleText.txt"
+	}
 }
