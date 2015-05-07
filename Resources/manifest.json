@@ -1,7 +1,14 @@
 {
 	"version": "1.0.1",
-	"file": { 
-		"localFile" : "www/Resources/sampleText.txt",
-		"remoteFile" : "https://raw.githubusercontent.com/shishirx34/Cordova/master/Resources/sampleText.txt"
-	}
+	"file": 
+		[
+			{ 
+				"localFile" : "www/Resources/manifest.json",
+				"remoteFile" : "https://raw.githubusercontent.com/shishirx34/Cordova/master/Resources/manifest.json"
+			},
+			{ 
+				"localFile" : "www/Resources/sampleText.txt",
+				"remoteFile" : "https://raw.githubusercontent.com/shishirx34/Cordova/master/Resources/sampleText.txt"
+			}
+		]
 }
